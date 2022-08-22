@@ -6,10 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch var_error",
+            "request": "launch",
+            "mainClass": "var_error",
+            "projectName": "Java_Study_3b7f261a"
+        },
+        {
+            "type": "java",
+            "name": "Launch type_change",
+            "request": "launch",
+            "mainClass": "type_change",
+            "projectName": "Java_Study_3b7f261a"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}",
-            "jdkpath" : "C:/Program Files/Java/jdk1.8.0_341/bin"
+            "jdkpath": "C:/Program Files/Java/jdk1.8.0_341/bin"
         },
         {
             "type": "java",
