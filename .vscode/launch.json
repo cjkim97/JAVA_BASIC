@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch operator",
+            "request": "launch",
+            "mainClass": "operator",
+            "projectName": "Java_Study_3b7f261a"
+        },
+        {
+            "type": "java",
             "name": "Launch var_error",
             "request": "launch",
             "mainClass": "var_error",
